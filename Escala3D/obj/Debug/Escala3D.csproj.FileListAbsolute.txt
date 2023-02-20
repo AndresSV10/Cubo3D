@@ -1,0 +1,28 @@
+C:\Users\Tere\source\repos\Escala3D\bin\Debug\Escala3D.exe.config
+C:\Users\Tere\source\repos\Escala3D\bin\Debug\Escala3D.exe
+C:\Users\Tere\source\repos\Escala3D\bin\Debug\Escala3D.pdb
+C:\Users\Tere\source\repos\Escala3D\bin\Debug\Graphics3DS.dll
+C:\Users\Tere\source\repos\Escala3D\bin\Debug\Graphics3DS.pdb
+C:\Users\Tere\source\repos\Escala3D\obj\Debug\Escala3D.csproj.AssemblyReference.cache
+C:\Users\Tere\source\repos\Escala3D\obj\Debug\Escala3D.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tere\source\repos\Escala3D\obj\Debug\Escala3D.Form1.resources
+C:\Users\Tere\source\repos\Escala3D\obj\Debug\Escala3D.Properties.Resources.resources
+C:\Users\Tere\source\repos\Escala3D\obj\Debug\Escala3D.csproj.GenerateResource.cache
+C:\Users\Tere\source\repos\Escala3D\obj\Debug\Escala3D.csproj.CoreCompileInputs.cache
+C:\Users\Tere\source\repos\Escala3D\obj\Debug\Escala3D.csproj.CopyComplete
+C:\Users\Tere\source\repos\Escala3D\obj\Debug\Escala3D.exe
+C:\Users\Tere\source\repos\Escala3D\obj\Debug\Escala3D.pdb
+C:\Users\Andres\source\repos\Ejemplos de Cubo 3D\Escala3D\bin\Debug\Escala3D.exe.config
+C:\Users\Andres\source\repos\Ejemplos de Cubo 3D\Escala3D\bin\Debug\Escala3D.exe
+C:\Users\Andres\source\repos\Ejemplos de Cubo 3D\Escala3D\bin\Debug\Escala3D.pdb
+C:\Users\Andres\source\repos\Ejemplos de Cubo 3D\Escala3D\bin\Debug\Graphics3DS.dll
+C:\Users\Andres\source\repos\Ejemplos de Cubo 3D\Escala3D\bin\Debug\Graphics3DS.pdb
+C:\Users\Andres\source\repos\Ejemplos de Cubo 3D\Escala3D\obj\Debug\Escala3D.csproj.AssemblyReference.cache
+C:\Users\Andres\source\repos\Ejemplos de Cubo 3D\Escala3D\obj\Debug\Escala3D.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andres\source\repos\Ejemplos de Cubo 3D\Escala3D\obj\Debug\Escala3D.Form1.resources
+C:\Users\Andres\source\repos\Ejemplos de Cubo 3D\Escala3D\obj\Debug\Escala3D.Properties.Resources.resources
+C:\Users\Andres\source\repos\Ejemplos de Cubo 3D\Escala3D\obj\Debug\Escala3D.csproj.GenerateResource.cache
+C:\Users\Andres\source\repos\Ejemplos de Cubo 3D\Escala3D\obj\Debug\Escala3D.csproj.CoreCompileInputs.cache
+C:\Users\Andres\source\repos\Ejemplos de Cubo 3D\Escala3D\obj\Debug\Escala3D.csproj.CopyComplete
+C:\Users\Andres\source\repos\Ejemplos de Cubo 3D\Escala3D\obj\Debug\Escala3D.exe
+C:\Users\Andres\source\repos\Ejemplos de Cubo 3D\Escala3D\obj\Debug\Escala3D.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerspectivaForms13D", "PerspectivaForms13D.csproj", "{A567C068-0055-4C04-91B3-D616C593E76B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A567C068-0055-4C04-91B3-D616C593E76B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A567C068-0055-4C04-91B3-D616C593E76B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A567C068-0055-4C04-91B3-D616C593E76B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A567C068-0055-4C04-91B3-D616C593E76B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0608CA15-B1C1-4246-AA2B-34CEDE76BF90}
+	EndGlobalSection
+EndGlobal

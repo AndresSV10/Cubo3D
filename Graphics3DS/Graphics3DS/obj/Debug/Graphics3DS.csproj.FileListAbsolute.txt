@@ -1,0 +1,17 @@
+c:\users\jarvis\documents\visual studio 2017\Projects\Graphics3DS\Graphics3DS\bin\Debug\Graphics3DS.dll
+c:\users\jarvis\documents\visual studio 2017\Projects\Graphics3DS\Graphics3DS\bin\Debug\Graphics3DS.pdb
+c:\users\jarvis\documents\visual studio 2017\Projects\Graphics3DS\Graphics3DS\obj\Debug\Graphics3DS.dll
+c:\users\jarvis\documents\visual studio 2017\Projects\Graphics3DS\Graphics3DS\obj\Debug\Graphics3DS.pdb
+C:\Users\Jarvis\Documents\Visual Studio 2017\Projects\Graphics3DS\Graphics3DS\obj\Debug\Graphics3DS.csproj.CoreCompileInputs.cache
+C:\Users\Tere\source\repos\Graphics3DS\Graphics3DS\bin\Debug\Graphics3DS.dll
+C:\Users\Tere\source\repos\Graphics3DS\Graphics3DS\bin\Debug\Graphics3DS.pdb
+C:\Users\Tere\source\repos\Graphics3DS\Graphics3DS\obj\Debug\Graphics3DS.csproj.AssemblyReference.cache
+C:\Users\Tere\source\repos\Graphics3DS\Graphics3DS\obj\Debug\Graphics3DS.csproj.CoreCompileInputs.cache
+C:\Users\Tere\source\repos\Graphics3DS\Graphics3DS\obj\Debug\Graphics3DS.dll
+C:\Users\Tere\source\repos\Graphics3DS\Graphics3DS\obj\Debug\Graphics3DS.pdb
+C:\Users\Andres\source\repos\Ejemplos de Cubo 3D\Graphics3DS\Graphics3DS\bin\Debug\Graphics3DS.dll
+C:\Users\Andres\source\repos\Ejemplos de Cubo 3D\Graphics3DS\Graphics3DS\bin\Debug\Graphics3DS.pdb
+C:\Users\Andres\source\repos\Ejemplos de Cubo 3D\Graphics3DS\Graphics3DS\obj\Debug\Graphics3DS.csproj.AssemblyReference.cache
+C:\Users\Andres\source\repos\Ejemplos de Cubo 3D\Graphics3DS\Graphics3DS\obj\Debug\Graphics3DS.csproj.CoreCompileInputs.cache
+C:\Users\Andres\source\repos\Ejemplos de Cubo 3D\Graphics3DS\Graphics3DS\obj\Debug\Graphics3DS.dll
+C:\Users\Andres\source\repos\Ejemplos de Cubo 3D\Graphics3DS\Graphics3DS\obj\Debug\Graphics3DS.pdb

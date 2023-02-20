@@ -1,0 +1,14 @@
+C:\Users\Tere\source\repos\Graphics3DS\PerspectivaForms13D\obj\Debug\PerspectivaForms13D.csproj.AssemblyReference.cache
+C:\Users\Tere\source\repos\Graphics3DS\PerspectivaForms13D\obj\Debug\PerspectivaForms13D.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tere\source\repos\Graphics3DS\PerspectivaForms13D\obj\Debug\PerspectivaForms13D.Form1.resources
+C:\Users\Tere\source\repos\Graphics3DS\PerspectivaForms13D\obj\Debug\PerspectivaForms13D.Properties.Resources.resources
+C:\Users\Tere\source\repos\Graphics3DS\PerspectivaForms13D\obj\Debug\PerspectivaForms13D.csproj.GenerateResource.cache
+C:\Users\Tere\source\repos\Graphics3DS\PerspectivaForms13D\obj\Debug\PerspectivaForms13D.csproj.CoreCompileInputs.cache
+C:\Users\Tere\source\repos\Graphics3DS\PerspectivaForms13D\bin\Debug\PerspectivaForms13D.exe.config
+C:\Users\Tere\source\repos\Graphics3DS\PerspectivaForms13D\bin\Debug\PerspectivaForms13D.exe
+C:\Users\Tere\source\repos\Graphics3DS\PerspectivaForms13D\bin\Debug\PerspectivaForms13D.pdb
+C:\Users\Tere\source\repos\Graphics3DS\PerspectivaForms13D\bin\Debug\Graphics3DS.dll
+C:\Users\Tere\source\repos\Graphics3DS\PerspectivaForms13D\bin\Debug\Graphics3DS.pdb
+C:\Users\Tere\source\repos\Graphics3DS\PerspectivaForms13D\obj\Debug\PerspectivaForms13D.csproj.CopyComplete
+C:\Users\Tere\source\repos\Graphics3DS\PerspectivaForms13D\obj\Debug\PerspectivaForms13D.exe
+C:\Users\Tere\source\repos\Graphics3DS\PerspectivaForms13D\obj\Debug\PerspectivaForms13D.pdb
